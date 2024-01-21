@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web development ,GSAP , Javascript , UI design
 - 📫 How to reach me: katiyaranuja51@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: Learning new technologies is my passion and also during my free time I did lve playing Cricket and Archery.
+- ⚡ Fun fact: Learning new technologies is my passion and also during my free time I did love playing Cricket and Archery.
 
   
 - **Programming Languages:**
